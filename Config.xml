@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CONFIGURATION>
+  <NAME>Default Game</NAME>
+  <RESOLUTION>1600x900</RESOLUTION>
+  <SCENES>
+    <SCENE>MainMenuScene</SCENE>
+	  <SCENE>GameScene</SCENE>
+	  <SCENE>GameOverScene</SCENE>
+  </SCENES>
+</CONFIGURATION>
